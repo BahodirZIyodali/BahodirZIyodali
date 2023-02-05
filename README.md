@@ -11,6 +11,9 @@
 
 
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BahodirZIyodali&show_icons=true&theme=gotham" alt="BahodirZIyodali" />
+ 
+ <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BahodirZIyodali&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="BahodirZIyodali" /></a> </p>
 
 
 
@@ -18,6 +21,5 @@
 
 
 ![Coder](https://user-images.githubusercontent.com/113345966/203836416-f4173d4c-d430-41eb-aab5-9e567db13c8b.gif)
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BahodirZIyodali&show_icons=true&theme=gotham" alt="BahodirZIyodali" />
- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BahodirZIyodali&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="BahodirZIyodali" /></a> </p>
+
 
