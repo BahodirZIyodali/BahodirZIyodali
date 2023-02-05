@@ -29,7 +29,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/mukhriddin-dev/count.svg" />
+  <img src="https://profile-counter.glitch.me/BahodirZIyodali/count.svg" />
 </p>
 
 
