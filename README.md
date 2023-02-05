@@ -27,10 +27,6 @@
 
  ![Coder](https://user-images.githubusercontent.com/113345966/203836416-f4173d4c-d430-41eb-aab5-9e567db13c8b.gif)
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/BahodirZIyodali/count.svg" />
-</p>
 
 
 
