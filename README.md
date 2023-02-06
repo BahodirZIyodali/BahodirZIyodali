@@ -16,6 +16,9 @@
 
 
  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BahodirZIyodali&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="BahodirZIyodali" /></a> </p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukhriddin-dev&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asarvarjon&langs_count=8&theme=vue)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 
