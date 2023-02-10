@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bakhodir Ziyodali</h1>
 <p align='center'>Learner who is curious about gaining new knowledge as web apps  and excited about coding </p>
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://dev.to/bakhodirziyodali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bakhodirziyodali" height="30" width="40" /></a>
 <a href="https://codesandbox.com/bahodirziyodali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="bahodirziyodali" height="30" width="40" /></a>
