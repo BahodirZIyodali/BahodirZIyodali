@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bakhodir Ziyodali</h1>
-<p align='center'>Learner who is curious about gaining new knowledge  and excited about coding </p>
+<p align='center'>Learner who is curious about gaining new knowledge as web apps  and excited about coding </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
