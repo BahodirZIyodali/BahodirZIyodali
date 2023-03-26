@@ -23,6 +23,6 @@
 
 <!-- [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=HOVSEP93&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/HOVSEP93/github-readme-activity-graph) -->
 
-[![Hovsep's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HOVSEP93&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Hovsep's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BahodirZIyodali&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  
