@@ -24,4 +24,8 @@
 
 [![Hovsep's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BahodirZIyodali&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+
+![Metrics](https://metrics.lecoq.io/fer1s?template=classic&isocalendar=1&stars=1&introduction=1&languages=1&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&introduction.title=true&stars.limit=3&config.timezone=Europe%2FWarsaw)
+
  
