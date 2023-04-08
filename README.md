@@ -24,9 +24,5 @@
 
 [![Hovsep's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BahodirZIyodali&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/BahodirZIyodali/count.svg" />
-</p>
 
  
