@@ -23,4 +23,4 @@
 
 [![Hovsep's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BahodirZIyodali&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Snake animation](https://github.com/Rashidov01/Rashidov01/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/BahodirZIyodali/BahodirZIyodali/blob/output/github-contribution-grid-snake.svg)
