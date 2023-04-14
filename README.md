@@ -15,8 +15,6 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BahodirZIyodali&show_icons=true&theme=gotham" alt="BahodirZIyodali" />
 
- ![Snake animation](https://github.com/BahodirZIyodali/BahodirZIyodali/blob/output/github-contribution-grid-snake.svg)
- 
  ![Coder](https://user-images.githubusercontent.com/113345966/203836416-f4173d4c-d430-41eb-aab5-9e567db13c8b.gif)
 
   My github activity graph
@@ -25,5 +23,9 @@
 
 [![Hovsep's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BahodirZIyodali&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+ 
+ 
+ ![Snake animation](https://github.com/BahodirZIyodali/BahodirZIyodali/blob/output/github-contribution-grid-snake.svg)
+ 
 
  
