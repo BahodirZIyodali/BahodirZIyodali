@@ -10,7 +10,7 @@ How to reach me: <a href="bahodirziyodaliyev@gmail.com">bahodirziyodaliyev@gmail
 ### DSA 🧠 Practice
 
 
-[![Leetcode Stats](https://leetcode.card.workers.dev/?username=lifeofsoumya)](https://leetcode.com/lifeofsoumya "Click to view profile")
+[![Leetcode Stats](https://leetcode.card.workers.dev/?username=BahodirZIyodali)](https://leetcode.com/lifeofsoumya "Click to view profile")
 
 <div display="flex">
   <p>
